@@ -1,0 +1,24 @@
+#titleContainer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+#bg {
+    position: absolute;
+    width:100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+.holder {
+    position: absolute;
+    width: 50vw;
+    height: auto;
+    background-color: #505050;
+    left: 25vw;
+    top: 35vh;
+    border-radius: 50px;
+    text-align: center;
+    padding: 15px;
+}
